@@ -13,5 +13,11 @@ Online Sınav Sistemi dinamik olarak tasarlanmıştır. Sistem, soru - seçenek 
 <a href="https://github.com/ElifKirazci/OnlineSinavSistemi/blob/master/ekrangoruntusu/SecenekEkle-Sil.PNG" target="_blank">
 <img src="https://github.com/ElifKirazci/OnlineSinavSistemi/blob/master/ekrangoruntusu/SecenekEkle-Sil.PNG" width="200" style="max-width:100%;"></a>
 
-<a href="https://github.com/ElifKirazci/OnlineSinavSistemi/blob/master/ekrangoruntusu/SecenekEkle-Sil.PNG" target="_blank">
-<img src="https://github.com/ElifKirazci/OnlineSinavSistemi/blob/master/ekrangoruntusu/SecenekEkle-Sil.PNG" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/ElifKirazci/OnlineSinavSistemi/blob/master/ekrangoruntusu/Sorular.PNG" target="_blank">
+<img src="https://github.com/ElifKirazci/OnlineSinavSistemi/blob/master/ekrangoruntusu/Sorular.PNG" width="200" style="max-width:100%;"></a>
+
+<a href="https://github.com/ElifKirazci/OnlineSinavSistemi/blob/master/ekrangoruntusu/SonucGosterme.PNG" target="_blank">
+<img src="https://github.com/ElifKirazci/OnlineSinavSistemi/blob/master/ekrangoruntusu/SonucGosterme.PNG" width="200" style="max-width:100%;"></a>
+
+<a href="https://github.com/ElifKirazci/OnlineSinavSistemi/blob/master/ekrangoruntusu/SinavSonucu.PNG" target="_blank">
+<img src="https://github.com/ElifKirazci/OnlineSinavSistemi/blob/master/ekrangoruntusu/SinavSonucu.PNG" width="200" style="max-width:100%;"></a>
